@@ -2,7 +2,7 @@
 This scripts converts wav files to a format that is readable by
 an Akai MPX16 sampler on linux.
 USAGE:
-   You need to put this script in the same directory where all of your wav
+   You need to put the script "convert.sh" in the same directory where all of your wav
    files are: then you run it, and it will create a "converted" folder
    with all the converted files.
    In order to use this script, you need to have the program ffmpeg installed.
